@@ -1,2 +1,2 @@
-# paginaweb-allan
-pagina para un curso
+<body>   
+    <img src="img/homer.gif" alt="DE LA PERRA"> 
